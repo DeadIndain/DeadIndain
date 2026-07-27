@@ -30,7 +30,9 @@
 [![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=GollaBharath&theme=dark)](https://github.com/GollaBharath)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-286%20hrs%201%20min-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-70%20hrs%2051%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.46%20million%20lines%20of%20code-blue?style=flat)
 
@@ -62,6 +64,28 @@ Projects                 7 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 Linux                    7 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 7 mins (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $2.78 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 7 AI Prompts
+
+Opus                     51 lines            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 50 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -75,7 +99,7 @@ Rust                     1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 27/07/2026 13:33:12 UTC
+ Last Updated on 27/07/2026 17:36:10 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Tools in my Arsenal
